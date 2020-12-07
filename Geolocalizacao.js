@@ -1,6 +1,6 @@
     let placeSearch;
     let autocomplete;
-    let key_api = "AIzaSyAVwFOvGU1J_R3WyycRGAyqhd8n8H5pZ9M";
+    const key_api = YOUR KEY;
 
     function initAutocomplete() {
         // Create the autocomplete object, restricting the search predictions to
